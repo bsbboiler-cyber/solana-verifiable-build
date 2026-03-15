@@ -1,0 +1,10 @@
+{
+  "discriminator": {
+    "type": "u8",
+    "data": 2
+  },
+  "units": {
+    "type": "u32",
+    "data": 300000
+  }
+}
